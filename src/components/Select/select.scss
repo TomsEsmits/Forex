@@ -1,0 +1,10 @@
+.select-wrapper {
+    &__select {
+        height: 50px;
+        width: 320px;
+        padding: 10px;
+        appearance: none;
+        outline: none;
+        cursor: pointer;
+    }
+}
